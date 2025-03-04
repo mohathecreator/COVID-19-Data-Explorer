@@ -22,24 +22,58 @@ Make sure to have those libraries installed before running the programm
 ### Installation
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/YourUsername/COVID-19-Data-Explorer.git
+    git clone https://github.com/mohathecreator/COVID-19-Data-Explorer
     ```
 2. Navigate into the project directory:
     ```bash
     cd COVID-19-Data-Explorer
     ```
-3. Install the required dependencies:
+3. Install the required libraries:
     ```bash
     pip install pandas plotly
     ```
-   
-   Alternatively, if you're using this project on Replit:
-   - Fork the Repl
-   - The dependencies will be automatically installed
 
 
 ## Usage
 To start the program, simply run the code in your console and follow the input instructions.
-```bash
-# Example command
-python main.py
+
+
+
+
+# COVID-19 Daten-Explorer
+
+## Beschreibung
+Willkommen beim COVID-19 Daten-Explorer!
+Dieses Projekt ist eines meiner ersten Projekte und soll meine Fähigkeiten zu programmieren sowie Datenmanipulation und -visualisierung demonstrieren.
+
+Mit dem COVID-19 Daten-Explorer können Sie verschiedene COVID-19-Fallzahlen (z.B.: bestätigte, Todes- oder genesene Fälle) für verschiedene Länder in unterschiedlichen Zeiträumen visualisieren.
+
+Vielen Dank das ihr das Programm ausprobiert und viel Spaß!
+
+## Erste Schritte
+
+### Voraussetzungen
+Dieses Programm läuft in Python.
+Sie benötigen die folgenden Bibliotheken:
+- Pandas
+- Plotly
+- datetime
+  
+Stellen Sie sicher, dass diese Bibliotheken installiert sind, bevor Sie das Programm ausführen.
+
+### Installation
+1. Klonen Sie das Repository auf Ihren lokalen Computer:
+    ```bash
+    git clone https://github.com/mohathecreator/COVID-19-Data-Explorer
+    ```
+2. Navigieren Sie in das Projektverzeichnis:
+    ```bash
+    cd COVID-19-Data-Explorer
+    ```
+3. Installieren Sie die erforderlichen Bibliotheken:
+    ```bash
+    pip install pandas plotly
+    ```
+   
+## Verwendung
+Um das Programm zu starten, führen Sie einfach den Code in Ihrer Konsole aus und folgen Sie den Eingabeaufforderungen.
