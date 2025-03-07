@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 pip install pandas plotly requests
 ```
 
-###🔹 Run the script
+### 🔹 Run the script
 ```bash
 python covid_data_explorer.py
 ```
@@ -63,7 +63,7 @@ The dataset is maintained by Johns Hopkins University and contains:
 
 For more details, visit the [COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19).
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Feel free to contribute by:
 - Enhancing the visualization options.
@@ -72,5 +72,5 @@ Feel free to contribute by:
 
 ⸻
 
-##⭐ If you find this project useful, consider giving it a star on GitHub!
+## ⭐ If you find this project useful, consider giving it a star on GitHub!
 
