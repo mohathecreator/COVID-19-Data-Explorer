@@ -56,6 +56,8 @@ pip install pandas plotly requests
 python covid_data_explorer.py
 ```
 
+---
+
 ## 📊 Dataset Information
 The dataset is maintained by Johns Hopkins University and contains:
 - Global COVID-19 case data since January 2020.
@@ -70,7 +72,7 @@ Feel free to contribute by:
 - Improving the user input system.
 - Adding support for real-time API data sources.
 
-⸻
+---
 
 ## ⭐ If you find this project useful, consider giving it a star on GitHub!
 
