@@ -36,7 +36,7 @@ Make sure to have those libraries installed before running the programm
 
 ## Usage
 To start the program, simply run the code in your console and follow the input instructions.
-
+When the plot is displayed, you can interact with it by zooming in or out or by clicking on a plotline to display the exact details.
 
 
 
@@ -76,4 +76,4 @@ Stellen Sie sicher, dass diese Bibliotheken installiert sind, bevor Sie das Prog
     ```
    
 ## Verwendung
-Um das Programm zu starten, führen Sie einfach den Code in Ihrer Konsole aus und folgen Sie den Eingabeaufforderungen.
+Um das Programm zu starten, führen Sie einfach den Code in Ihrer Konsole aus und folgen Sie den Eingabeaufforderungen. Nach dem der Plot angezeigt wird, können Sie mit dem Plot interagieren in dem sie bspw. rein- oder rauszoomen oder auf die Plotlinie drücken, um genaue Daten anzeigen zu lassen.
